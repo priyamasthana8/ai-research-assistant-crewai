@@ -3,3 +3,4 @@ crewai-tools
 python-dotenv
 streamlit
 litellm
+mcp-types==2.3.0
